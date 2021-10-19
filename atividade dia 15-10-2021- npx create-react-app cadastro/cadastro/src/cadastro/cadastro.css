@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Dawning+of+a+New+Day&display=swap');
+
+#div-container{
+    width: 100%;
+    display: flex;
+}
+
+#div-esquerda, #div-direita{
+    width: 60%;
+    height: 105vh;
+}
+
+#div-esquerda{
+    background-color: rgba(33, 194, 159, 0.644);
+}
+
+#form{
+    margin: 0 auto;
+    margin-top: 200px;
+    align-items: center;
+    justify-content: center;
+    width: 700px;
+    height: 400px;
+    padding: 45px;
+    font-family:fantasy;
+}
+
+h2, p {
+    text-align: left;
+    margin-left: 90px;
+}
+
+h2{
+    margin-bottom: 5px;
+}
+
+p{
+    font-size: 20px;
+}
+
+div input{
+    padding: 10px;
+    margin-bottom: 5px;
+    width: 500px;
+    height: 20px;
+    border: none;
+    background-color: #f3ad15ab;
+}
+
+#botao{
+    padding: 10px;
+    margin-top: 7px;
+    width: 520px;
+    height: 50px;
+    border: none;
+    background-color: #e41919;
+    color: #3fe416;
+}
+
+#div-direita{
+    background-color: #191a18;
+    align-items: center;
+    justify-content: center;
+}
+
+.Cadastro-logo{
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+#titulo-imagem{
+    margin-top: 0px;
+    margin-left: 0;
+    text-align: center;
+    font-size: 75px;
+    color: #dd0808;
+}
